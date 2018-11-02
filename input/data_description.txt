@@ -206,7 +206,7 @@ Exterior1st: Exterior covering on house
        BrkComm	Brick Common
        BrkFace	Brick Face
        CBlock	Cinder Block
-       CemntBd	Cement Board
+       CmentBd	Cement Board
        HdBoard	Hard Board
        ImStucc	Imitation Stucco
        MetalSd	Metal Siding
