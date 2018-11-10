@@ -19,6 +19,11 @@ Data Science Project on kaggle (https://www.kaggle.com/c/house-prices-advanced-r
 	* Pandas
 	* Numpy
 
+## Kaggle
+
+The current result is 0.14413 on Root Mean Squred Logarithmic Error, which ranked at 2518st(Top 58%)
+
+For most recent info, welcome to [`My Kaggle Profile`](https://www.kaggle.com/julightzhong10).
 
 ## Acknowledgement
 
